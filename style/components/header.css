@@ -1,0 +1,58 @@
+@font-face {
+	font-family: 'Futura XBlkCnIt BT';
+	src: url('../../fonts/Futura Extra Black Condensed Italic BT.eot');
+	src: local('☺'), url('../../fonts/Futura Extra Black Condensed Italic BT.woff') format('woff'), url('../../fonts/Futura Extra Black Condensed Italic BT.ttf') format('truetype'), url('../../fonts/Futura Extra Black Condensed Italic BT.svg') format('svg');
+	font-weight: 100;
+	font-style: normal;
+}
+
+.header {
+    background-image: url(../../img/image\ 41.png);
+    background-size: cover;
+    height: 720px;
+}
+.overlay {
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.7) 42.64%, rgba(0, 0, 0, 0) 56.98%);
+
+    display: flex;
+    align-items: center;
+    padding: 0 56px;
+}
+.header-block {
+    width: 544px;
+}
+.title-header {
+    letter-spacing: 1.5px;
+    color: #FFFFFF;
+    font-family: 'Futura XBlkCnIt BT';
+
+    font-weight: 950;
+    font-size: 48px;
+    line-height: 64px;
+    text-transform: uppercase;
+}
+.text-header {
+    font-family: 'PT Sans', sans-serif;
+    color: #FFFFFF;
+
+    font-size: 18px;
+    line-height: 32px;
+
+    padding: 16px 0 24px;
+}
+.button-dark , .button-light, .title-hero , .card-title , .card-second-title , .button-count {
+    font-family: 'Futura XBlkCnIt BT';
+}
+
+.scroll-block {
+
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'PT Sans', sans-serif;
+    font-weight: 700;
+}
+.scroll-block img, p {
+    margin: 0 auto;
+}

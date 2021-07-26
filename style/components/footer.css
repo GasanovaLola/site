@@ -1,0 +1,68 @@
+.footer {
+    background-color: #0A1340;
+}
+.footer-text {
+    width: 656px;
+    margin: 0 auto;
+    text-align: center;
+}
+.local-link {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 32px;
+    font-family: 'PT Sans', sans-serif;
+}
+.color1 {
+    background: rgba(114, 157, 241, 0.2);
+    border: 4px solid #729DF1;
+    padding: 54px 0;
+    border-radius: 16px;
+    margin-right: 16px;
+    width: 163px;
+}
+.color2 {
+    background: rgba(52, 180, 80, 0.2);
+    border: 4px solid #34B450;
+    padding: 54px 0;
+    border-radius: 16px;
+    margin-right: 16px;
+    width: 163px;
+}
+.color3 {
+    background: rgba(241, 114, 114, 0.2);
+    border: 4px solid #F17272;
+    padding: 54px 0;
+    border-radius: 16px;
+    margin-right: 16px;
+    width: 163px;
+}
+.as {
+    padding: 32px 0;
+}
+.hj {
+    padding: 40px 0 !important;
+    border-radius: 24px;
+}
+
+.counter {
+    display: flex;
+    justify-content: center;
+    margin: 24px 0;
+}
+.button-count {
+    background-color: #0A1340;
+    color: #FFFFFF;
+    border-radius: 8px;
+    padding: 5px 28px;
+    margin-right: 16px;
+}
+.size-b {
+    font-size: 32px;
+}
+.counter-number {
+    margin: 0 24px;
+    font-size: 40px;
+}
+.minus , .plus {
+    cursor: pointer;
+}

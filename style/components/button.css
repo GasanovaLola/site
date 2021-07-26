@@ -1,0 +1,29 @@
+.button-dark {
+    padding: 8px 16px;
+    background-color: #1D38BF;
+    border: 2px solid #1D38BF;
+    border-radius: 8px;
+    letter-spacing: 1.5px;
+
+    color: #FFFFFF;
+    font-size: 18px;
+    text-transform: uppercase;
+
+    margin-right: 16px;
+    cursor: pointer;
+}
+.button-light {
+    padding: 8px 16px;
+    background-color: rgba(10, 19, 64, 0.5);
+    border: 2px solid #1D38BF;
+    border-radius: 8px;
+    letter-spacing: 1.5px;
+    
+    color: #FFFFFF;
+    font-size: 18px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+.button-light:hover {
+    border: 2px solid rgb(198, 6, 6);
+}

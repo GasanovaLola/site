@@ -1,0 +1,98 @@
+* {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img {
+    width: 100%;
+}
+.wrapper {
+    overflow: hidden;
+}
+.flex {
+    display: flex;
+    align-items: center;
+}
+.container {
+    width: 1264px;
+    margin: 0 auto;
+}
+.container-second {
+    width: 1104px;
+    margin: 0 auto;
+}
+.padding {
+    padding: 80px 0;
+}
+.mar {
+    margin: 80px 0 0;
+}
+.min-mar {
+    margin-bottom: 16px;
+}
+.margin {
+    margin: 37px 0;
+}
+.center {
+    text-align: center;
+}
+.color {
+    color: #A9C6E1;
+}
+.temp {
+    background-color: #0A1340;
+    border-radius: 16px;
+    height: 240px;
+}
+.bg {
+    background-color: #05081E;
+}
+.text-w {
+    width: 488px;
+}
+.padding-c {
+    padding: 61px 32px;
+}
+.bdrd {
+    margin-bottom: 16px;
+    border-radius: 24px;
+}
+.rd img {
+    border-radius: 0 24px 24px 0;
+}
+.fa {
+    font-size: 20px !important;
+    color: rgb(155, 156, 165);
+    margin-right: 26px;
+}
+
+.none {
+    display: none !important;
+}
+.block {
+    display: block;
+}
+
+.in .block-hero .fa {
+    transform: rotate(180deg) !important;
+    transition: 0.3s;
+    color: #FFFFFF;
+    margin-top: -102px;
+    cursor: pointer;
+}
+.in .block-hero {
+    background-color: #0A1340;
+}
+.in .block-hero .hkl .none {
+    display: block !important;
+    border-left: 2px solid #FFFFFF;
+    padding-left: 24px;
+}
+.in .title-hero {
+    color: #FFFFFF;
+}
+
+.rel {
+    width: 36px;
+}
